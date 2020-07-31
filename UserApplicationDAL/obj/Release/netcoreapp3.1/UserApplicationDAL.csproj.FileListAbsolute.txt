@@ -1,0 +1,12 @@
+C:\Users\asoto\Documents\UserApplication\UserApplicationDAL\bin\Release\netcoreapp3.1\UserApplicationDAL.deps.json
+C:\Users\asoto\Documents\UserApplication\UserApplicationDAL\bin\Release\netcoreapp3.1\UserApplicationDAL.runtimeconfig.json
+C:\Users\asoto\Documents\UserApplication\UserApplicationDAL\bin\Release\netcoreapp3.1\UserApplicationDAL.runtimeconfig.dev.json
+C:\Users\asoto\Documents\UserApplication\UserApplicationDAL\bin\Release\netcoreapp3.1\UserApplicationDAL.dll
+C:\Users\asoto\Documents\UserApplication\UserApplicationDAL\bin\Release\netcoreapp3.1\UserApplicationDAL.pdb
+C:\Users\asoto\Documents\UserApplication\UserApplicationDAL\obj\Release\netcoreapp3.1\UserApplicationDAL.csprojAssemblyReference.cache
+C:\Users\asoto\Documents\UserApplication\UserApplicationDAL\obj\Release\netcoreapp3.1\UserApplicationDAL.AssemblyInfoInputs.cache
+C:\Users\asoto\Documents\UserApplication\UserApplicationDAL\obj\Release\netcoreapp3.1\UserApplicationDAL.AssemblyInfo.cs
+C:\Users\asoto\Documents\UserApplication\UserApplicationDAL\obj\Release\netcoreapp3.1\UserApplicationDAL.csproj.CoreCompileInputs.cache
+C:\Users\asoto\Documents\UserApplication\UserApplicationDAL\obj\Release\netcoreapp3.1\UserApplicationDAL.dll
+C:\Users\asoto\Documents\UserApplication\UserApplicationDAL\obj\Release\netcoreapp3.1\UserApplicationDAL.pdb
+C:\Users\asoto\Documents\UserApplication\UserApplicationDAL\obj\Release\netcoreapp3.1\UserApplicationDAL.genruntimeconfig.cache

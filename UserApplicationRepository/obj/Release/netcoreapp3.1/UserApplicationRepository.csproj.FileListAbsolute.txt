@@ -1,0 +1,12 @@
+C:\Users\asoto\Documents\UserApplication\UserApplicationRepository\bin\Release\netcoreapp3.1\UserApplicationRepository.deps.json
+C:\Users\asoto\Documents\UserApplication\UserApplicationRepository\bin\Release\netcoreapp3.1\UserApplicationRepository.dll
+C:\Users\asoto\Documents\UserApplication\UserApplicationRepository\bin\Release\netcoreapp3.1\UserApplicationRepository.pdb
+C:\Users\asoto\Documents\UserApplication\UserApplicationRepository\bin\Release\netcoreapp3.1\UserApplicationDAL.dll
+C:\Users\asoto\Documents\UserApplication\UserApplicationRepository\bin\Release\netcoreapp3.1\UserApplicationDAL.pdb
+C:\Users\asoto\Documents\UserApplication\UserApplicationRepository\obj\Release\netcoreapp3.1\UserApplicationRepository.csprojAssemblyReference.cache
+C:\Users\asoto\Documents\UserApplication\UserApplicationRepository\obj\Release\netcoreapp3.1\UserApplicationRepository.AssemblyInfoInputs.cache
+C:\Users\asoto\Documents\UserApplication\UserApplicationRepository\obj\Release\netcoreapp3.1\UserApplicationRepository.AssemblyInfo.cs
+C:\Users\asoto\Documents\UserApplication\UserApplicationRepository\obj\Release\netcoreapp3.1\UserApplicationRepository.csproj.CoreCompileInputs.cache
+C:\Users\asoto\Documents\UserApplication\UserApplicationRepository\obj\Release\netcoreapp3.1\UserApplicationRepository.csproj.CopyComplete
+C:\Users\asoto\Documents\UserApplication\UserApplicationRepository\obj\Release\netcoreapp3.1\UserApplicationRepository.dll
+C:\Users\asoto\Documents\UserApplication\UserApplicationRepository\obj\Release\netcoreapp3.1\UserApplicationRepository.pdb

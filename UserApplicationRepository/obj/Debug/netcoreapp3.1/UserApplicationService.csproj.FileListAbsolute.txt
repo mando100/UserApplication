@@ -1,0 +1,12 @@
+C:\Users\asoto\Documents\UserApplication\UserApplication\UserApplicationService\bin\Debug\netcoreapp3.1\UserApplicationService.deps.json
+C:\Users\asoto\Documents\UserApplication\UserApplication\UserApplicationService\bin\Debug\netcoreapp3.1\UserApplicationService.dll
+C:\Users\asoto\Documents\UserApplication\UserApplication\UserApplicationService\bin\Debug\netcoreapp3.1\UserApplicationService.pdb
+C:\Users\asoto\Documents\UserApplication\UserApplication\UserApplicationService\bin\Debug\netcoreapp3.1\UserApplicationDAL.dll
+C:\Users\asoto\Documents\UserApplication\UserApplication\UserApplicationService\bin\Debug\netcoreapp3.1\UserApplicationDAL.pdb
+C:\Users\asoto\Documents\UserApplication\UserApplication\UserApplicationService\obj\Debug\netcoreapp3.1\UserApplicationService.csprojAssemblyReference.cache
+C:\Users\asoto\Documents\UserApplication\UserApplication\UserApplicationService\obj\Debug\netcoreapp3.1\UserApplicationService.AssemblyInfoInputs.cache
+C:\Users\asoto\Documents\UserApplication\UserApplication\UserApplicationService\obj\Debug\netcoreapp3.1\UserApplicationService.AssemblyInfo.cs
+C:\Users\asoto\Documents\UserApplication\UserApplication\UserApplicationService\obj\Debug\netcoreapp3.1\UserApplicationService.csproj.CoreCompileInputs.cache
+C:\Users\asoto\Documents\UserApplication\UserApplication\UserApplicationService\obj\Debug\netcoreapp3.1\UserApplicationService.csproj.CopyComplete
+C:\Users\asoto\Documents\UserApplication\UserApplication\UserApplicationService\obj\Debug\netcoreapp3.1\UserApplicationService.dll
+C:\Users\asoto\Documents\UserApplication\UserApplication\UserApplicationService\obj\Debug\netcoreapp3.1\UserApplicationService.pdb
